@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/common-java5-2.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/common-java5-2.19.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/doxia-sink-api-1.0-alpha-7.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/guava-17.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/htmlunit-driver-2.21.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/htmlunit-driver-2.23.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/java-client-2.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/java-client-2.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/jetty-rc-repacked-5.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/jetty-repacked-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/jetty-repacked-9.2.13.v20160825.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/jsr305-2.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-aether-provider-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-archiver-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-artifact-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-artifact-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-artifact-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-artifact-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-artifact-manager-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-artifact-manager-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-artifact-manager-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-clean-plugin-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-common-artifact-filters-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-compiler-plugin-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-compiler-plugin-3.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-compiler-plugin-3.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-core-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-core-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-core-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-deploy-plugin-2.7.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-error-diagnostics-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-error-diagnostics-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-error-diagnostics-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-filtering-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-install-plugin-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-jar-plugin-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-model-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-model-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-model-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-model-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-model-builder-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-monitor-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-monitor-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-monitor-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-annotations-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-annotations-3.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-annotations-3.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-api-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-api-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-api-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-descriptor-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-descriptor-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-descriptor-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-parameter-documenter-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-parameter-documenter-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-parameter-documenter-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-registry-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-registry-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-plugin-registry-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-profile-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-profile-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-profile-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-project-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-project-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-project-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-reporting-api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-reporting-api-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-reporting-api-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-repository-metadata-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-repository-metadata-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-repository-metadata-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-repository-metadata-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-resources-plugin-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-settings-2.0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-settings-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-settings-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-settings-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-settings-builder-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-shared-incremental-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-shared-utils-0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-shared-utils-0.7.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-shared-utils-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-site-plugin-3.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-surefire-common-2.12.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-surefire-common-2.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-surefire-common-2.19.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-surefire-plugin-2.12.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-surefire-plugin-2.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-surefire-plugin-2.19.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-toolchain-1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-toolchain-2.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/maven-toolchain-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-api-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-chrome-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-chrome-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-edge-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-edge-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-firefox-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-firefox-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-ie-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-ie-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-java-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-leg-rc-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-opera-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-remote-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-remote-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-safari-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-safari-driver-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-server-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-server-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-support-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/selenium-support-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-api-2.12.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-api-2.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-api-2.19.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-booter-2.12.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-booter-2.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-booter-2.19.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-grouper-2.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-grouper-2.19.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-testng-2.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-testng-2.19.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-testng-utils-2.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/surefire-testng-utils-2.19.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/External Jars/xbean-reflect-3.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-ie-driver-2.34.0-sources.jar/selenium-ie-driver-2.34.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Jars and drivers/Selenium/selenium-java-2.53.0/selenium-2.53.0/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
